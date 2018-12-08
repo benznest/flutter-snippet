@@ -8,7 +8,7 @@ Download [flutter-snippet.jar](https://github.com/benznest/flutter-snippet/raw/m
 
 Android Studio > File > Import Settings<br />
 
-![Import setting](images/1.png)
+![Import setting](images/1.png)<br /><br />
 
 ## Flutter Snippets
 
@@ -60,7 +60,7 @@ Below is a list of all available snippets and the triggers of each one.
 | `flt text style→`                   | TextStyle widget |
 | `flt theme data→`                   | ThemeData and color |
 | `flt timer→`                        | Timer widget |
-
+<br /><br />
 ## HTTP Library Flutter Snippets
 
 Below is a list of [HTTP](https://pub.dartlang.org/packages/http) library snippets and the triggers of each one. 
@@ -72,7 +72,7 @@ Below is a list of [HTTP](https://pub.dartlang.org/packages/http) library snippe
 | `flt redux connector→`              | Connector redux widget|
 | `flt redux store→`                  | Store variable |
 | `flt redux store provider→`         | StoreProvider widget |
-
+<br /><br />
 ## Shared Preference Library Flutter Snippets
 
 Below is a list of [Shared Preference](https://pub.dartlang.org/packages/shared_preferences) library snippets and the triggers of each one. 
