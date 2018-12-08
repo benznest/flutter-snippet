@@ -77,6 +77,8 @@ Below is a list of [HTTP](https://pub.dartlang.org/packages/http) library snippe
 | `flt http post→`                    | Send request with POST method |
 | `flt import http→`                  | Add importing http library |
 <br /><br />
+## Flutter Redux Library Flutter Snippets
+
 Below is a list of [Flutter Redux](https://pub.dartlang.org/packages/flutter_redux) library snippets and the triggers of each one. 
 
 | Trigger                             | Content |
