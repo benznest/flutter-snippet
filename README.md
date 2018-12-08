@@ -1,3 +1,4 @@
+#Flutter Snippet for Android Studio
 This extension contains code snippets for Flutter and is based on the Live template Android Studio
 
 ![create Flutter Widget](images/a1.gif)
