@@ -6,7 +6,8 @@ This extension contains code snippets for Flutter and is based on the Live templ
 ## Installation
 Download [flutter-snippet.jar](https://github.com/benznest/flutter-snippet/raw/master/flutter-snippet.jar)
 
-Android Studio > File > Import Settings
+Android Studio > File > Import Settings<br />
+
 ![Import setting](images/1.png)
 
 ## Flutter Snippets
