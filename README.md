@@ -18,6 +18,9 @@ Below is a list of all available snippets and the triggers of each one.
 | -------:                            | ------- |
 | `flt animation→`                    | StatefulWidget and Animation Controller |
 | `flt btn raise→`                    | Raised button widget and Text child |
+| `flt btn flat`                      | Flat button widget and Text child |
+| `flt btn flat icon`                 | Flat button widget and Icon child |
+| `flt btn bar`                       | Btton bar widget |
 | `flt build→`                        | Build widget method |
 | `flt card→`                         | Basic card widget |
 | `flt center→`                       | Center widget |
@@ -47,6 +50,7 @@ Below is a list of all available snippets and the triggers of each one.
 | `flt newinstance→`                  | newIntance function |
 | `flt orientation→`                  | Check Orientation |
 | `flt padding→`                      | Padding widget |
+| `flt popup menu`                    | Basic Popup menu |
 | `flt row→`                          | Row widget |
 | `flt setstate→`                     | setState function |
 | `flt show dialog→`                  | showDialog function |
