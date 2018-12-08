@@ -71,6 +71,16 @@ Below is a list of [HTTP](https://pub.dartlang.org/packages/http) library snippe
 
 | Trigger                             | Content |
 | -------:                            | ------- |
+| `flt http client→`                  | Create client for multi request in sequence |
+| `flt http fetch method→`            | fetch data from network function |
+| `flt http get→`                     | Send request with GET method |
+| `flt http post→`                    | Send request with POST method |
+| `flt import http→`                  | Add importing http library |
+<br /><br />
+Below is a list of [Flutter Redux](https://pub.dartlang.org/packages/flutter_redux) library snippets and the triggers of each one. 
+
+| Trigger                             | Content |
+| -------:                            | ------- |
 | `flt import redux→`                 | Add importing redux library |
 | `flt redux app full→`               | Simple Redux App |
 | `flt redux connector→`              | Connector redux widget|
