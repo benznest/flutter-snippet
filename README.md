@@ -122,6 +122,6 @@ Below is a list of [Flutter Cupertino Setting](https://pub.dartlang.org/packages
 | `flt cupert sett btn→`              | Cupertino Setting Button Widget |
 | `flt cupert sett control→`          | Cupertino Setting Control Widget |
 | `flt cupert sett head→`             | Cupertino Setting Header Widget |
-| `flt cupert sett select`            | Cupertino Setting Seelct Widget |
+| `flt cupert sett select`            | Cupertino Setting Select Widget |
 | `flt cupert sett style`             | Cupertino Setting Style Widget |
 | `flt cupert setting`                | Cupertino Setting Full Widget |
