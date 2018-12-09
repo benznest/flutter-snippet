@@ -65,19 +65,19 @@ Below is a list of all available snippets and the triggers of each one.
 | `flt theme data→`                   | ThemeData and color |
 | `flt timer→`                        | Timer widget |
 <br /><br />
-## HTTP Library Flutter Snippets
+## HTTP Library Snippets
 
 Below is a list of [HTTP](https://pub.dartlang.org/packages/http) library snippets and the triggers of each one. 
 
 | Trigger                             | Content |
 | -------:                            | ------- |
+| `flt import http→`                  | Add importing http library |
 | `flt http client→`                  | Create client for multi request in sequence |
 | `flt http fetch method→`            | fetch data from network function |
 | `flt http get→`                     | Send request with GET method |
 | `flt http post→`                    | Send request with POST method |
-| `flt import http→`                  | Add importing http library |
 <br /><br />
-## Flutter Redux Library Flutter Snippets
+## Flutter Redux Library Snippets
 
 Below is a list of [Flutter Redux](https://pub.dartlang.org/packages/flutter_redux) library snippets and the triggers of each one. 
 
@@ -89,7 +89,7 @@ Below is a list of [Flutter Redux](https://pub.dartlang.org/packages/flutter_red
 | `flt redux store→`                  | Store variable |
 | `flt redux store provider→`         | StoreProvider widget |
 <br /><br />
-## Shared Preference Library Flutter Snippets
+## Shared Preference Library Snippets
 
 Below is a list of [Shared Preference](https://pub.dartlang.org/packages/shared_preferences) library snippets and the triggers of each one. 
 
@@ -99,4 +99,29 @@ Below is a list of [Shared Preference](https://pub.dartlang.org/packages/shared_
 | `flt import sharepref→`             | Add importing Shared Preference library |
 | `flt sharepref get→`                | Get data from Shared Preference |
 | `flt sharepref set→`                | Set data to Shared Preference|
+<br /><br />
+## Sqflite Library Snippets
 
+Below is a list of [Sqflite](https://pub.dartlang.org/packages/sqflite) library snippets and the triggers of each one. 
+
+
+| Trigger                             | Content |
+| -------:                            | ------- |
+| `flt import sqflite→`               | Add importing Sqflite library |
+| `flt sqflite get→`                  | Get data from Sqflite |
+| `flt sqflite provider→`             | Provider for Sqflite |
+<br /><br />
+## Flutter Cupertino Setting Library Snippets
+
+Below is a list of [Flutter Cupertino Setting](https://pub.dartlang.org/packages/flutter_cupertino_settings) library snippets and the triggers of each one. 
+
+
+| Trigger                             | Content |
+| -------:                            | ------- |
+| `flt import cupert setting`         | Add importing Cupertino Setting library |
+| `flt cupert sett btn→`              | Cupertino Setting Button Widget |
+| `flt cupert sett control→`          | Cupertino Setting Control Widget |
+| `flt cupert sett head→`             | Cupertino Setting Header Widget |
+| `flt cupert sett select`            | Cupertino Setting Seelct Widget |
+| `flt cupert sett style`             | Cupertino Setting Style Widget |
+| `flt cupert setting`                | Cupertino Setting Full Widget |
